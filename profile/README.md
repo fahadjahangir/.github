@@ -27,6 +27,7 @@ Please choose between the following methods and prototypes:
 * [C01 Continuous forest monitoring](https://github.com/Evoland-Land-Monitoring-Evolution/C1_ContinuousForestMonitoring);
 * [C02 Forest disturbance mapping](https://github.com/Evoland-Land-Monitoring-Evolution/C2_ForestDisturbance);
 * [C03 Forest biomass mapping](https://github.com/Evoland-Land-Monitoring-Evolution/C3_ForestBiomass);
+* [C12 Tree_types mapping](https://github.com/Evoland-Land-Monitoring-Evolution/tree_types);
 ### Agriculture:
 * [C04 Cover crop type mapping](https://github.com/Evoland-Land-Monitoring-Evolution/C4_CoverCropType);
 * [C05 Cropland/grassland GPP monitoring]();
